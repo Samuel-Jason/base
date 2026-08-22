@@ -13,3 +13,8 @@ C:\Users\samue\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Cons
 C:\Users\samue\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\samue\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\samue\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\samue\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Dapper.dll
+C:\Users\samue\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\samue\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\samue\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date

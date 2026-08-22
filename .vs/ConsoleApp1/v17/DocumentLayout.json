@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\data\\sqliteconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\sqliteconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\content\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\content\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\data\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\content\\enums\\contenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\content\\enums\\contenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\content\\careeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\content\\careeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\content\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\content\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\content\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\content\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\content\\career.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\content\\career.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\content\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\content\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\content\\enums\\econtentlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\content\\enums\\econtentlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\samue\\source\\repos\\consoleapp1\\consoleapp1\\content\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9B723C-1800-4B83-904C-1FF4133EF7BF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\content\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Article.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Content\\Article.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Article.cs",
+              "RelativeToolTip": "ConsoleApp1\\Content\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T22:46:26.638Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "ConsoleApp1\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T07:36:53.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ConsoleApp1\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T07:36:46.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqliteConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Data\\SqliteConnectionFactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\SqliteConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Data\\SqliteConnectionFactory.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\SqliteConnectionFactory.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T07:35:48.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T22:15:06.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Data\\IDbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\IDbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Data\\IDbConnectionFactory.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\IDbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T07:35:42.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContentType.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Enums\\ContentType.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Content\\Enums\\ContentType.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Enums\\ContentType.cs",
+              "RelativeToolTip": "ConsoleApp1\\Content\\Enums\\ContentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T07:35:31.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Content.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Content\\Content.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Content.cs",
+              "RelativeToolTip": "ConsoleApp1\\Content\\Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T22:47:02.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CareerItem.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\CareerItem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Content\\CareerItem.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\CareerItem.cs",
+              "RelativeToolTip": "ConsoleApp1\\Content\\CareerItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T22:21:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Career.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Career.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Content\\Career.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Career.cs",
+              "RelativeToolTip": "ConsoleApp1\\Content\\Career.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T22:18:32.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EContentLevel.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Enums\\EContentLevel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Content\\Enums\\EContentLevel.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Enums\\EContentLevel.cs",
+              "RelativeToolTip": "ConsoleApp1\\Content\\Enums\\EContentLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T22:11:59.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Course.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Content\\Course.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Course.cs",
+              "RelativeToolTip": "ConsoleApp1\\Content\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T22:07:54.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Lecture.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Content\\Lecture.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Lecture.cs",
+              "RelativeToolTip": "ConsoleApp1\\Content\\Lecture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T22:07:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Module.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Content\\Module.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Content\\Module.cs",
+              "RelativeToolTip": "ConsoleApp1\\Content\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T22:07:24.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -13,12 +13,12 @@ namespace ConsoleApp1.Content
         public Course(string title, string url) : base(title, url)
         {
             Modules = new List<Module>();
+            Tag = string.Empty;
         }
 
-        public string Tag { get; set; }
+        public string Tag { get; set; } = string.Empty;
         public int DurationInMinutes { get; set; }
         public IList<Module> Modules { get; set; }
         public EContentLevel Level { get; set; }
-        }
-
+    }
 }

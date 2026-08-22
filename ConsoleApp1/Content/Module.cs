@@ -10,7 +10,8 @@ namespace ConsoleApp1.Content
     {
         public Module()
         {
-            var Lectures = new List<Lecture>();
+            Lectures = new List<Lecture>();
+            Title = string.Empty;
         }
 
         public int Order { get; set; }
