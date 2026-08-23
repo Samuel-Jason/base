@@ -1,4 +1,4 @@
-using ConsoleApp1.Content;
+using ConsoleApp1.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace ConsoleApp1.Data
