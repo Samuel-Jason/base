@@ -8,10 +8,10 @@ namespace ConsoleApp1.Data
     {
         private readonly SqliteConnection _connection;
 
-        public SqliteConnectionFactory()
+        public SqliteConnectionFactory(string databasePath = "app.db")
         {
-            // Conexão em memória que persiste enquanto aberta
-            _connection = new SqliteConnection("Data Source=:memory:");
+            var connectionString = $"Data Source={databasePath}";
+            _connection = new SqliteConnection(connectionString);
             _connection.Open();
             CreateSchemaIfNotExists();
             SeedIfEmpty();
@@ -55,7 +55,7 @@ namespace ConsoleApp1.Data
                     cmd.Parameters.AddWithValue("@Author", "Author 1");
                     cmd.Parameters.AddWithValue("@ContentType", 1);
                     cmd.Parameters.AddWithValue("@PublishedDate", DateTime.UtcNow.ToString("o"));
-                    cmd.Parameters.AddWithValue("@Body", "Conteúdo de exemplo");
+                    cmd.Parameters.AddWithValue("@Body", "ConteÃºdo de exemplo");
                     cmd.ExecuteNonQuery();
                 }
             }

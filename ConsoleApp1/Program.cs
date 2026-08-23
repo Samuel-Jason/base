@@ -4,6 +4,7 @@ using ConsoleApp1.Data;
 using ConsoleApp1.Repositories;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace ConsoleApp1
@@ -12,24 +13,47 @@ namespace ConsoleApp1
     {
         static async Task Main(string[] args)
         {
+            using var dbContext = new AppDbContext();
+            dbContext.Database.EnsureCreated();
+
             using var factory = new SqliteConnectionFactory();
             var repo = new ArticleRepository(factory.GetOpenConnection());
 
-            var article = new Article
+            var articleEf = new Article
             {
-                Title = "Article 1",
-                Author = "Author 1",
+                Title = "Article via EF",
+                Author = "EF Author",
                 ContentType = ContentType.Article,
                 PublishedDate = DateTime.UtcNow,
-                Body = "Conteúdo de exemplo"
+                Body = "Registro inserido pelo Entity Framework"
             };
 
-            await repo.AddAsync(article);
+            dbContext.Articles.Add(articleEf);
+            await dbContext.SaveChangesAsync();
 
-            var articles = await repo.GetAllAsync();
+            var articleDapper = new Article
+            {
+                Title = "Article via Dapper",
+                Author = "Dapper Author",
+                ContentType = ContentType.Blog,
+                PublishedDate = DateTime.UtcNow,
+                Body = "Registro inserido pelo Dapper"
+            };
+
+            await repo.AddAsync(articleDapper);
+
+            var articles = (await repo.GetAllAsync()).ToList();
+            Console.WriteLine("Artigos vindos do Dapper:");
             foreach (var item in articles)
             {
-                Console.WriteLine($"{item.Id}, {item.Title}, {item.Author}");
+                Console.WriteLine($"{item.Id} | {item.Title} | {item.Author} | {item.ContentType}");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Artigos vindos do EF:");
+            foreach (var item in dbContext.Articles.OrderBy(x => x.Id).ToList())
+            {
+                Console.WriteLine($"{item.Id} | {item.Title} | {item.Author} | {item.ContentType}");
             }
 
             var courses = new List<Course>
