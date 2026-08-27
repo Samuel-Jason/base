@@ -26,24 +26,13 @@ namespace ConsoleApp1
             var id = await articleService.CreateAsync(article);
             var articles = await articleService.GetAllAsync();
 
-            Console.WriteLine("Artigos via aplicação:");
+            Console.WriteLine("Artigos:");
             foreach (var item in articles)
             {
                 Console.WriteLine($"{item.Id} | {item.Title} | {item.Author} | {item.ContentType}");
             }
 
-            Console.WriteLine();
-            Console.WriteLine($"Artigo criado com id: {id}");
-
-            using var dbContext = new AppDbContext();
-            dbContext.Database.EnsureCreated();
-            var efArticles = dbContext.Articles.ToList();
-
-            Console.WriteLine("Artigos vindos do EF Core:");
-            foreach (var item in efArticles)
-            {
-                Console.WriteLine($"{item.Id} | {item.Title} | {item.Author} | {item.ContentType}");
-            }
+            Console.WriteLine($"\nArtigo criado com id: {id}");
         }
     }
 }
